@@ -1,6 +1,11 @@
 # 💫 About Me:
-📌 Location-sharing app to help people follow live locations.<br>🪜 Enhancing algorithm visualization projects to include more animations and user interactions.<br>📦 Building a comprehensive inventory management system.
 
+I'm Bishal Poudel, a passionate software developer focused on creating innovative and impactful applications. My work spans mobile and web development, algorithm visualization, and real-time applications. I thrive on exploring new technologies and turning complex ideas into user-friendly solutions.
+
+### 🔭 Current Projects:
+- **📍 Location-sharing App**: Enabling real-time location tracking and navigation.  
+- **🪜 Algorithm Visualizations**: Adding animations and interactivity to data structure and algorithm demonstrations.  
+- **📦 Inventory Management System**: Developing a robust platform for tracking inventory, receipts, and deliveries.  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/realb1shal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realb1shal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mebishalpoudel) 
